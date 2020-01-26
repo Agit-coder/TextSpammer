@@ -1,0 +1,1 @@
+Note : The first coords after pyautogui.click are the x, y coords where you want to click and enter text.
