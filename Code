@@ -1,0 +1,8 @@
+import pyautogui
+
+count = 0
+while count < 100:
+    count = count + 1
+    pyautogui.click(150, 950)
+    pyautogui.typewrite('Hi')
+    pyautogui.press('enter')
